@@ -8,7 +8,7 @@ This is a React Native mobile application where the user can add coins to the sc
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/CoinDropApp.git
+   git clone https://github.com/mkaakm/coinDropApp
 
 ```bash
 # using npm
