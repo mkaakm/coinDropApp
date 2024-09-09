@@ -1,3 +1,4 @@
+require('events').defaultMaxListeners = 100;
 import React from 'react';
 import HomeScreen from './src/screens/HomeScreen';
 
